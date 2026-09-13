@@ -17,7 +17,7 @@ exports.handler = async (event, context) => {
   }
 
   // 🔒 শুধু এই UID admin
-  const ADMIN_UID = "2xZl7s9tDzdVdtlJz3I3kWT37vG2";
+  const ADMIN_UID = "fxmTMyLt0WhJI2NOCmp6TVxPN2f2";
 
   // Request body parse
   let data;
