@@ -11,7 +11,7 @@ exports.handler = async (event, context) => {
   }
 
   // 🔒 Admin UID check
-  const ADMIN_UID = "2xZl7s9tDzdVdtlJz3I3kWT37vG2";
+  const ADMIN_UID = "fxmTMyLt0WhJI2NOCmp6TVxPN2f2";
 
   let data;
   try { data = JSON.parse(event.body || "{}"); }
